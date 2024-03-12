@@ -1,0 +1,76 @@
+[
+    {
+        "id": "1",
+        "cover": "https://i.ibb.co/HKbmSC2/dariusz-sankowski-3-Oi-YMg-DKJ6k-unsplash.jpg",
+        "author": "John Doe",
+        "title": "The Mystery of the Missing Key",
+        "author_img": "https://i.ibb.co/Pt3tJLw/author1.jpg",
+        "posted_date": "2024-03-12",
+        "reading_time": "20 minutes",
+        "hashtag": [
+            "mystery",
+            "adventure"
+        ]
+    },
+    
+
+    {
+        "id": "2",
+        "cover": "https://i.ibb.co/DzLDVK7/space-nasa.jpg",
+        "author": "Jane Smith",
+        "title": "Exploring the Universe",
+        "author_img": "https://i.ibb.co/YQqxzLG/istockphoto-1464459357-1024x1024.jpg",
+        "posted_date": "2024-03-11",
+        "reading_time": "30 minutes",
+        "hashtag": [
+            "space",
+            "science",
+            "exploration"
+        ]
+    },
+
+    {
+        "id": "3",
+        "cover": "https://i.ibb.co/PQ8C8S9/food.jpg",
+        "author": "Alex Johnson",
+        "title": "Cooking Adventures",
+        "author_img": "https://i.ibb.co/mNGhBr6/istockphoto-1311084168-1024x1024.jpg",
+        "posted_date": "2024-03-10",
+        "reading_time": "25 minutes",
+        "hashtag": [
+            "cooking",
+            "recipes",
+            "food"
+        ]
+    },
+
+    {
+        "id": "4",
+        "cover": "https://i.ibb.co/WxW4Rc2/gardening.jpg",
+        "author": "Emily Brown",
+        "title": "Gardening Tips and Tricks",
+        "author_img": "https://i.ibb.co/t4ZDJ2w/prop.jpg",
+        "posted_date": "2024-03-09",
+        "reading_time": "15 minutes",
+        "hashtag": [
+            "gardening",
+            "tips",
+            "plants"
+        ]
+    },
+
+    {
+        "id": "5",
+        "cover": "https://i.ibb.co/NZbYbmW/fitness.jpg",
+        "author": "Michael Lee",
+        "title": "Fitness Journey: From Couch to 5K",
+        "author_img": "https://i.ibb.co/sFysdGr/pdpds.jpg",
+        "posted_date": "2024-03-08",
+        "reading_time": "40 minutes",
+        "hashtag": [
+            "fitness",
+            "running",
+            "health"
+        ]
+    }
+]
