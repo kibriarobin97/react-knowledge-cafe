@@ -6,7 +6,7 @@
         "title": "The Mystery of the Missing Key",
         "author_img": "https://i.ibb.co/Pt3tJLw/author1.jpg",
         "posted_date": "2024-03-12",
-        "reading_time": "20 minutes",
+        "reading_time": 10,
         "hashtag": [
             "mystery",
             "adventure"
@@ -21,7 +21,7 @@
         "title": "Exploring the Universe",
         "author_img": "https://i.ibb.co/YQqxzLG/istockphoto-1464459357-1024x1024.jpg",
         "posted_date": "2024-03-11",
-        "reading_time": "30 minutes",
+        "reading_time": 18,
         "hashtag": [
             "space",
             "science",
@@ -36,7 +36,7 @@
         "title": "Cooking Adventures",
         "author_img": "https://i.ibb.co/mNGhBr6/istockphoto-1311084168-1024x1024.jpg",
         "posted_date": "2024-03-10",
-        "reading_time": "25 minutes",
+        "reading_time": 20,
         "hashtag": [
             "cooking",
             "recipes",
@@ -51,7 +51,7 @@
         "title": "Gardening Tips and Tricks",
         "author_img": "https://i.ibb.co/t4ZDJ2w/prop.jpg",
         "posted_date": "2024-03-09",
-        "reading_time": "15 minutes",
+        "reading_time": 15,
         "hashtag": [
             "gardening",
             "tips",
@@ -66,7 +66,7 @@
         "title": "Fitness Journey: From Couch to 5K",
         "author_img": "https://i.ibb.co/sFysdGr/pdpds.jpg",
         "posted_date": "2024-03-08",
-        "reading_time": "40 minutes",
+        "reading_time": 10,
         "hashtag": [
             "fitness",
             "running",
