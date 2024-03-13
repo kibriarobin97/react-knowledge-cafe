@@ -11,7 +11,6 @@ const Blogs = ({handleAddToBookmark, handleMarkAsRead}) => {
             .then(res => res.json())
             .then(data => setBlogs(data))
     }, [])
-    console.log(blogs)
 
     return (
         <div className="md:w-2/3">
